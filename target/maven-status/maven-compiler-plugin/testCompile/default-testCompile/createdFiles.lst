@@ -1,0 +1,5 @@
+com\gcr\or\LoginPage.class
+com\gcr\scripts\Login_Logout.class
+com\gcr\or\ProductDetailsPage.class
+com\gcr\or\HomePage.class
+com\gcr\reuse\CommonFunctions.class
