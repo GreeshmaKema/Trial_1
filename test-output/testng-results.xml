@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-16T12:47:48 IST" name="Suite" finished-at="2022-05-16T12:48:20 IST" duration-ms="31553">
+    <groups>
+    </groups>
+    <test started-at="2022-05-16T12:47:48 IST" name="Test" finished-at="2022-05-16T12:48:20 IST" duration-ms="31553">
+      <class name="com.gcr.scripts.Login_Logout">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.gcr.scripts.Login_Logout@bd4dc25]" started-at="2022-05-16T12:47:48 IST" name="generateReport" finished-at="2022-05-16T12:47:49 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.gcr.scripts.Login_Logout@bd4dc25]" started-at="2022-05-16T12:47:49 IST" name="beforeClass" finished-at="2022-05-16T12:47:52 IST" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.gcr.scripts.Login_Logout@bd4dc25]" started-at="2022-05-16T12:47:52 IST" name="methodName" finished-at="2022-05-16T12:47:52 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.gcr.scripts.Login_Logout.Login_LogoutTestCase() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="Login_LogoutTestCase()[pri:0, instance:com.gcr.scripts.Login_Logout@bd4dc25]" started-at="2022-05-16T12:47:52 IST" name="Login_LogoutTestCase" finished-at="2022-05-16T12:48:19 IST" duration-ms="26417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_LogoutTestCase -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.gcr.scripts.Login_Logout@bd4dc25]" started-at="2022-05-16T12:48:19 IST" name="afterClass" finished-at="2022-05-16T12:48:20 IST" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.gcr.scripts.Login_Logout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
