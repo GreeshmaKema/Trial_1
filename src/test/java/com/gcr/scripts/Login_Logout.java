@@ -7,7 +7,7 @@ import com.gcr.reuse.CommonFunctions;
 
 public class Login_Logout extends StartBrowser{
   @Test
-  public void Login_LogoutTestCase() throws Exception {
+  public void Login_LogoutTest() throws Exception {
 	  CommonFunctions cfs = new CommonFunctions();
 	  cfs.login();
 	  Thread.sleep(2000);
