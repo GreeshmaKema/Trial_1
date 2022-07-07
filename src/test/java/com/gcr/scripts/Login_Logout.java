@@ -11,7 +11,7 @@ public class Login_Logout extends StartBrowser{
 	  CommonFunctions cfs = new CommonFunctions();
 	  cfs.login();
 	  Thread.sleep(2000);
-	  cfs.logoutttt();
+	  cfs.logout();
 	  Thread.sleep(2000);
   }
 }
